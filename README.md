@@ -31,13 +31,13 @@ This project helped me understand the structure of a functional, responsive blog
 ## 🖼️ Screenshots
 
 ### Homepage
-![Homepage](images/homepage.png)
+![Homepage](HomePage.png)
 
 ### Dark Mode Enabled
-![Dark Mode](images/darkmode.png)
+![Dark Mode](Darkmode.png)
 
 ### Blog Section with Interactions
-![Blog Section](images/blogsection.png)
+![Blog Section](Dark mode blog section.png)
 
 ---
 
