@@ -37,7 +37,7 @@ This project helped me understand the structure of a functional, responsive blog
 ![Dark Mode](Darkmode.png)
 
 ### Blog Section with Interactions
-![Blog Section](Dark mode blog section.png)
+![Blog Section](Dark_mode_blog_section.png)
 
 ---
 
